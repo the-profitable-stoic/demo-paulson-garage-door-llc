@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Paulson Garage Door LLC",
+    "phone": "+16127026580",
+    "category": "garage door installer",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Minneapolis Garage Door Experts",
+      "heroSubline": "Reliable garage door installation and repair services in the Twin Cities. We handle Minnesota winters with ease and expertise.",
+      "aboutTitle": "Your Trusted Garage Door Partner in Minneapolis",
+      "aboutText": [
+        "Paulson Garage Door LLC started with a simple mission: to provide dependable garage door services to our neighbors in the Twin Cities. We're a locally owned and operated business, deeply rooted in the Minneapolis community, and committed to delivering honest and reliable work.",
+        "Our approach is straightforward: quality workmanship, clear communication, and fair pricing. We understand the importance of a functional and secure garage door, especially with our harsh Minnesota winters. We prioritize your satisfaction and safety above all else.",
+        "We're proud to be a part of the Minneapolis community and actively support local initiatives. We believe in giving back to the neighborhoods we serve, ensuring a stronger and more connected community for all."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand emergencies happen. Expect prompt and efficient service when you need it most."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced technicians ensure precise and reliable garage door installations."
+        },
+        {
+          "title": "Durable Solutions",
+          "description": "We use quality parts and materials that withstand Minnesota's harsh climate."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear and upfront pricing for all our services."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Garage Door Quote Today!",
+      "ctaSubline": "Contact Paulson Garage Door LLC for expert service and reliable solutions."
+    },
+    "services": [
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Expert garage door installation services tailored to your Minneapolis home.",
+        "description": "Choosing the right garage door is crucial for both curb appeal and security. At Paulson Garage Door LLC, we offer a wide selection of styles, materials, and colors to complement your Minneapolis home, from classic Craftsman designs to modern steel options. Our experienced technicians handle every aspect of the installation process, ensuring a perfect fit and smooth operation. We take into account the specific challenges of Minneapolis properties, including proper insulation for our extreme winters and durable construction to withstand freeze-thaw cycles. We work with leading brands to provide you with the highest quality products and warranties. \n\nOur installation process includes removing your old door, preparing the opening, installing the new door and opener, and thoroughly testing the system for optimal performance. We also provide detailed instructions on how to maintain your new garage door to extend its lifespan. We ensure all safety features are properly installed and functioning. \n\nWhether you're building a new home in Southwest Minneapolis or replacing an outdated door in Linden Hills, we'll guide you through the selection process and provide expert installation services to enhance the value and security of your property.",
+        "process": [
+          "Step 1: Consultation and selection of the perfect garage door for your needs.",
+          "Step 2: Precise measurements and preparation of the garage door opening.",
+          "Step 3: Professional installation of the garage door and opener system.",
+          "Step 4: Thorough testing and quality assurance to ensure smooth operation."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Improved security",
+          "Energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What type of garage door is best for Minneapolis winters?",
+            "answer": "Insulated steel garage doors are highly recommended for Minneapolis winters. They provide excellent insulation to keep your garage warm and reduce energy costs."
+          },
+          {
+            "question": "How long does a garage door installation typically take?",
+            "answer": "Most garage door installations can be completed in a single day, depending on the complexity of the project and the type of door being installed."
+          },
+          {
+            "question": "Do you offer warranties on your garage door installations?",
+            "answer": "Yes, we offer warranties on both the garage door itself and our installation services to provide you with peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast and reliable garage door repair services throughout Minneapolis.",
+        "description": "A malfunctioning garage door can be a major inconvenience and security risk. Paulson Garage Door LLC provides prompt and reliable repair services to address any issue, from broken springs and cables to malfunctioning openers and damaged panels. We understand the urgency of garage door repairs, especially during the harsh Minneapolis winters, and offer 24/7 emergency service to ensure your safety and security. Our experienced technicians arrive equipped with the tools and parts to diagnose and fix the problem quickly and efficiently.\n\nWe handle all types of garage door repairs, including spring replacements, cable repairs, track adjustments, opener repairs, and panel replacements. We use only high-quality replacement parts to ensure lasting performance and durability. We're familiar with the unique challenges of older homes in areas like Uptown and Northeast Minneapolis, and we have the expertise to repair and maintain their unique garage door systems. \n\nWhether you're dealing with a noisy garage door in North Loop or a broken spring in Southwest Minneapolis, we're here to provide expert repair services and restore your garage door to optimal working condition.",
+        "process": [
+          "Step 1: Thorough inspection to diagnose the garage door problem.",
+          "Step 2: Clear explanation of the necessary repairs and associated costs.",
+          "Step 3: Efficient and professional repair using high-quality parts.",
+          "Step 4: Testing and adjustment to ensure smooth and reliable operation."
+        ],
+        "benefits": [
+          "Fast response times",
+          "Expert diagnosis",
+          "Reliable repairs",
+          "24/7 emergency service"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my garage door serviced?",
+            "answer": "We recommend having your garage door serviced at least once a year to ensure smooth operation and prevent potential problems. Regular maintenance can extend the lifespan of your garage door."
+          },
+          {
+            "question": "What are the signs that my garage door spring needs replacement?",
+            "answer": "Signs of a broken garage door spring include difficulty opening or closing the door, a loud snapping sound, or a visible gap in the spring."
+          },
+          {
+            "question": "Do you offer emergency garage door repair services?",
+            "answer": "Yes, we offer 24/7 emergency garage door repair services throughout Minneapolis and the surrounding areas."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Professional garage door opener repair and replacement services.",
+        "description": "A malfunctioning garage door opener can disrupt your daily routine and compromise your home's security. Paulson Garage Door LLC specializes in repairing and replacing all types of garage door openers, from chain-drive to belt-drive and screw-drive models. We service all major brands, including LiftMaster, Chamberlain, and Genie. Our experienced technicians can quickly diagnose the problem and provide effective solutions to restore your opener to optimal working condition.\n\nWe address a wide range of opener issues, including remote control problems, sensor malfunctions, motor failures, and gear replacements. We understand the importance of safety and ensure that all safety features, such as auto-reverse and photoelectric eyes, are properly functioning. Minneapolis homes built in the 1950s and 60s in areas like South Minneapolis often have older opener models that require specialized knowledge to repair, which we possess. \n\nWhether you need a simple remote control reprogramming or a complete opener replacement, we'll provide expert service and reliable solutions to ensure your garage door operates safely and efficiently.",
+        "process": [
+          "Step 1: Diagnose the garage door opener issue.",
+          "Step 2: Provide repair or replacement options.",
+          "Step 3: Complete the repair or install a new opener.",
+          "Step 4: Test the opener for smooth and safe operation."
+        ],
+        "benefits": [
+          "Quick diagnosis",
+          "Expert repairs",
+          "Safety inspections",
+          "Opener replacement"
+        ],
+        "faq": [
+          {
+            "question": "How do I reprogram my garage door opener remote?",
+            "answer": "The reprogramming process varies depending on the opener model. Consult your owner's manual or contact us for assistance. We can guide you through the process or send a technician to your home."
+          },
+          {
+            "question": "What are the benefits of upgrading to a smart garage door opener?",
+            "answer": "Smart garage door openers offer features such as remote control via smartphone, real-time monitoring, and integration with other smart home devices."
+          },
+          {
+            "question": "How long do garage door openers typically last?",
+            "answer": "With proper maintenance, a garage door opener can last 10-15 years. Regular servicing can help extend its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Safe and efficient garage door spring replacement services.",
+        "description": "Garage door springs are under immense tension and can be dangerous to handle without the proper tools and expertise. Paulson Garage Door LLC offers safe and efficient garage door spring replacement services to ensure your safety and the proper functioning of your garage door. We use high-quality springs that are designed to withstand the rigors of Minneapolis's climate and provide long-lasting performance. Our experienced technicians follow strict safety protocols to prevent accidents and ensure a secure installation.\n\nWe replace both torsion springs and extension springs, depending on the type of garage door system you have. We assess the condition of all components, including cables, rollers, and hinges, to identify any potential issues and recommend necessary repairs. We also offer preventative maintenance services to extend the lifespan of your springs and prevent future breakdowns. Given the age of homes in neighborhoods like Northeast Minneapolis, many require careful spring selection to match older door systems.\n\nWhether you have a broken spring or simply want to upgrade to a more durable option, we'll provide expert spring replacement services to restore the smooth and safe operation of your garage door.",
+        "process": [
+          "Step 1: Assess the type of garage door spring.",
+          "Step 2: Safely remove the broken spring.",
+          "Step 3: Install a new, high-quality spring.",
+          "Step 4: Test the door balance and operation."
+        ],
+        "benefits": [
+          "Safe and reliable spring replacement",
+          "High-quality springs",
+          "Preventative maintenance",
+          "Expert assessment"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Signs of a broken garage door spring include difficulty opening or closing the door, a loud snapping sound, or a visible gap in the spring."
+          },
+          {
+            "question": "Can I replace a garage door spring myself?",
+            "answer": "Replacing a garage door spring is extremely dangerous and should only be performed by a trained professional. Attempting to replace a spring yourself can result in serious injury."
+          },
+          {
+            "question": "How long do garage door springs typically last?",
+            "answer": "Garage door springs typically last 7-10 years, depending on usage and maintenance. Regular lubrication can help extend their lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Expert garage door cable repair and replacement services.",
+        "description": "Garage door cables play a critical role in the smooth and safe operation of your garage door. If a cable breaks or becomes frayed, it can cause the door to become unbalanced or even collapse. Paulson Garage Door LLC offers expert garage door cable repair and replacement services to ensure the safety and proper functioning of your garage door. Our experienced technicians are equipped to handle all types of cable repairs, from replacing broken cables to adjusting cable tension.\n\nWe use high-quality cables that are designed to withstand the weight and stress of your garage door. We also inspect the condition of other components, such as rollers and hinges, to identify any potential issues and recommend necessary repairs. Minneapolis homes often experience cable issues due to the extreme temperature fluctuations, causing expansion and contraction that can weaken the cables.\n\nWhether you have a snapped cable or simply want to ensure the safety of your garage door system, we'll provide expert cable repair services to restore your garage door to optimal working condition.",
+        "process": [
+          "Step 1: Inspect the garage door cables for damage.",
+          "Step 2: Safely remove the damaged cable.",
+          "Step 3: Install a new, high-quality cable.",
+          "Step 4: Test the door balance and operation."
+        ],
+        "benefits": [
+          "Safe and reliable cable repair",
+          "High-quality cables",
+          "Expert assessment",
+          "Balanced door operation"
+        ],
+        "faq": [
+          {
+            "question": "What causes garage door cables to break?",
+            "answer": "Garage door cables can break due to wear and tear, corrosion, or sudden impact. Regular maintenance and lubrication can help extend their lifespan."
+          },
+          {
+            "question": "Can I replace a garage door cable myself?",
+            "answer": "Replacing a garage door cable can be dangerous and should only be performed by a trained professional. The cables are under high tension and can cause serious injury if not handled properly."
+          },
+          {
+            "question": "How often should I inspect my garage door cables?",
+            "answer": "We recommend inspecting your garage door cables at least twice a year for signs of wear and tear. If you notice any fraying or damage, contact us for repair or replacement."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Comprehensive garage door maintenance services to extend the life of your door.",
+        "description": "Regular maintenance is crucial for ensuring the longevity and smooth operation of your garage door. Paulson Garage Door LLC offers comprehensive garage door maintenance services to identify and address potential problems before they become costly repairs. Our experienced technicians perform a thorough inspection of all components, including springs, cables, rollers, hinges, and openers. We lubricate moving parts, adjust spring tension, and tighten loose hardware to ensure optimal performance.\n\nWe also check the safety features, such as auto-reverse and photoelectric eyes, to ensure they are functioning properly. Minneapolis's harsh winters can take a toll on garage doors, causing corrosion and damage to moving parts. Our maintenance services help protect your garage door from the elements and extend its lifespan.\n\nWhether you have a new garage door or an older model, our maintenance services will keep it running smoothly and safely for years to come.",
+        "process": [
+          "Step 1: Thorough inspection of all garage door components.",
+          "Step 2: Lubrication of moving parts.",
+          "Step 3: Adjustment of spring tension.",
+          "Step 4: Testing of safety features."
+        ],
+        "benefits": [
+          "Extended garage door lifespan",
+          "Smooth and reliable operation",
+          "Prevention of costly repairs",
+          "Improved safety"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule garage door maintenance?",
+            "answer": "We recommend scheduling garage door maintenance at least once a year. Regular maintenance can help prevent problems and extend the lifespan of your garage door."
+          },
+          {
+            "question": "What does garage door maintenance include?",
+            "answer": "Garage door maintenance includes inspecting all components, lubricating moving parts, adjusting spring tension, and testing safety features."
+          },
+          {
+            "question": "Can I perform garage door maintenance myself?",
+            "answer": "While some basic maintenance tasks, such as lubricating rollers and hinges, can be performed by homeowners, more complex tasks should be left to a trained professional."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Paul",
+        "slug": "st-paul-mn",
+        "state": "MN",
+        "content": "Paulson Garage Door LLC is proud to offer comprehensive garage door services to the residents of St. Paul, Minnesota. From the historic charm of Summit Avenue with its Victorian-era homes to the more modern developments throughout the city, we understand the diverse architectural styles and garage door needs of St. Paul homeowners.\n\nOur experienced technicians are equipped to handle everything from garage door repairs and maintenance to complete garage door replacements and installations. Given St. Paul's extreme cold winters, we specialize in insulated garage doors and weatherproofing solutions to ensure your garage stays warm and your garage door operates smoothly year-round. We are committed to providing reliable, efficient, and affordable garage door services to the St. Paul community.",
+        "localContext": "St. Paul is known for its beautiful Victorian-era homes, especially along Summit Avenue, and endures harsh winters requiring durable garage door solutions.",
+        "nearbyAreas": [
+          "Minneapolis",
+          "West St. Paul",
+          "Maplewood"
+        ]
+      },
+      {
+        "city": "Plymouth",
+        "slug": "plymouth-mn",
+        "state": "MN",
+        "content": "Paulson Garage Door LLC is your trusted provider of garage door services in Plymouth, Minnesota. We cater to the established suburban homes built in the 1970s and 80s that characterize much of Plymouth. We understand the specific needs of these homes and offer a wide range of garage door services to keep your garage door functioning optimally.\n\nWhether you need a quick repair, routine maintenance, or a complete garage door replacement, our team of skilled technicians is ready to assist you. We prioritize quality workmanship and customer satisfaction, ensuring that every job is completed to the highest standards. Living in Plymouth means dealing with extreme winter conditions, so we offer insulated garage doors and weather stripping services to protect your garage from the elements.",
+        "localContext": "Plymouth features many 1970s-80s suburban homes that need reliable garage door maintenance and repair to withstand Minnesota's severe winters.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Minnetonka",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Eden Prairie",
+        "slug": "eden-prairie-mn",
+        "state": "MN",
+        "content": "Paulson Garage Door LLC proudly serves the community of Eden Prairie, Minnesota, offering top-notch garage door services to homeowners throughout the city. Known for its planned developments from the 1980s and 90s, Eden Prairie presents a variety of garage door styles and needs, which we are well-equipped to address.\n\nFrom repairing broken springs and cables to installing new garage doors and openers, our experienced technicians provide reliable and efficient service. We understand the importance of a functional and secure garage door, especially during the harsh Minnesota winters. That's why we offer insulated garage doors and weatherproofing services to keep your garage warm and protected from the elements. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Eden Prairie's 1980s-90s planned developments benefit from Paulson Garage Door LLC's expertise in modern garage door solutions and winter weather protection.",
+        "nearbyAreas": [
+          "Minnetonka",
+          "Hopkins",
+          "Chanhassen"
+        ]
+      },
+      {
+        "city": "Maple Grove",
+        "slug": "maple-grove-mn",
+        "state": "MN",
+        "content": "Paulson Garage Door LLC is dedicated to providing exceptional garage door services to the residents of Maple Grove, Minnesota. As a city known for its family-friendly developments from the 1990s and 2000s, Maple Grove presents a unique blend of garage door styles and needs. We're here to help you maintain, repair, or upgrade your garage door.\n\nOur team of skilled technicians is equipped to handle all your garage door needs, from routine maintenance to emergency repairs and new installations. We understand the importance of a reliable garage door for your family's safety and convenience, especially in Minnesota's challenging climate. We offer a wide selection of insulated garage doors and weatherproofing options to keep your garage warm and protected from the elements. Count on us for prompt, professional, and affordable garage door services in Maple Grove.",
+        "localContext": "Maple Grove's 1990s-2000s family developments require garage door services that prioritize safety, reliability, and weather protection.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Osseo",
+          "Rogers"
+        ]
+      },
+      {
+        "city": "Bloomington",
+        "slug": "bloomington-mn",
+        "state": "MN",
+        "content": "Paulson Garage Door LLC is your trusted local provider of garage door services in Bloomington, Minnesota. Serving the city's established ranch homes from the 1960s and 70s, we understand the unique garage door needs of Bloomington homeowners.\n\nWhether you need a simple repair, a routine maintenance check, or a complete garage door replacement, our experienced technicians are ready to assist you. We prioritize quality workmanship and customer satisfaction, ensuring that every job is done right the first time. Bloomington's extreme winter climate demands robust garage doors, so we offer insulated options and weather sealing to keep your garage warm and your door operating smoothly. We are committed to providing reliable, efficient, and affordable garage door services to the Bloomington community.",
+        "localContext": "Bloomington's 1960s-70s ranch homes often require garage door services that address aging systems and winter weather concerns.",
+        "nearbyAreas": [
+          "Richfield",
+          "Edina",
+          "Eagan"
+        ]
+      },
+      {
+        "city": "Minnetonka",
+        "slug": "minnetonka-mn",
+        "state": "MN",
+        "content": "Paulson Garage Door LLC is proud to extend its expert garage door services to the city of Minnetonka, MN. Known for its beautiful homes and diverse neighborhoods, Minnetonka presents a variety of garage door needs, from classic styles to modern designs. We are equipped to handle it all.\n\nOur experienced technicians offer a full range of services, including garage door repair, maintenance, installation, and replacement. We understand the importance of a reliable and secure garage door, especially during Minnesota's harsh winters. That's why we specialize in insulated garage doors and weatherproofing solutions to keep your garage warm and protected from the elements. We are committed to providing prompt, professional, and affordable service to the Minnetonka community.",
+        "localContext": "Minnetonka's diverse housing styles require a garage door service provider with expertise in various designs and weather protection solutions.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Eden Prairie",
+          "Hopkins"
+        ]
+      },
+      {
+        "city": "Edina",
+        "slug": "edina-mn",
+        "state": "MN",
+        "content": "Paulson Garage Door LLC is dedicated to providing top-quality garage door services to the residents of Edina, Minnesota. Known for its upscale homes and well-maintained properties, Edina demands the best in garage door solutions. We are here to meet those needs with professionalism and expertise.\n\nOur team of skilled technicians provides a full range of services, including garage door repair, maintenance, installation, and replacement. We understand the importance of a reliable and aesthetically pleasing garage door for your home's curb appeal and security. We offer a wide selection of garage doors in various styles and materials, as well as insulated options to keep your garage warm during the cold Minnesota winters. Count on us for exceptional service and customer satisfaction in Edina.",
+        "localContext": "Edina's upscale homes require garage door services that emphasize both functionality and aesthetic appeal, especially withstanding Minnesota's climate.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Richfield",
+          "St. Louis Park"
+        ]
+      },
+      {
+        "city": "Lakeville",
+        "slug": "lakeville-mn",
+        "state": "MN",
+        "content": "Paulson Garage Door LLC is pleased to offer our comprehensive garage door services to the community of Lakeville, Minnesota. As a growing city with a mix of established and newer homes, Lakeville presents a variety of garage door needs that we are well-equipped to handle. We are committed to providing reliable and affordable solutions for all your garage door needs.\n\nFrom routine maintenance and repairs to complete garage door replacements, our experienced technicians are ready to assist you. We understand the importance of a functional and secure garage door for your family's safety and convenience. Given Lakeville's location and climate, we specialize in insulated garage doors and weatherproofing services to protect your garage from the elements. We are dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Lakeville's mix of housing requires garage door services suited for both older and newer construction, with a focus on weather protection.",
+        "nearbyAreas": [
+          "Burnsville",
+          "Apple Valley",
+          "Farmington"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "Paulson Garage Door LLC was incredibly responsive when my garage door spring broke on a Saturday morning. The technician arrived within an hour and had the new spring installed quickly and efficiently. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working, and Paulson Garage Door LLC was able to diagnose and fix the problem quickly. The technician was knowledgeable and professional. Great service!",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 5,
+        "service": "Garage Door Installation",
+        "text": "We recently had Paulson Garage Door LLC install a new garage door, and we couldn't be happier with the results. The installation was seamless, and the new door looks fantastic. The team was professional and courteous throughout the entire process.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "The cable on my garage door snapped unexpectedly. Paulson Garage Door LLC came out the same day and had it fixed in no time. I appreciated their prompt and reliable service.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Garage Door Maintenance",
+        "text": "I hired Paulson Garage Door LLC for a routine maintenance check, and they did a thorough job. They identified a few potential issues and addressed them before they became bigger problems. Worth the investment!",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "My garage door was making a lot of noise and not closing properly. Paulson Garage Door LLC quickly diagnosed the problem and made the necessary repairs. The door now operates smoothly and quietly. Excellent service!",
+        "date": "2025-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Paulson Garage Door - Minneapolis MN",
+        "description": "Reliable garage door services in Minneapolis. Installation, repair, openers & more. Call today!"
+      },
+      "about": {
+        "title": "About Paulson Garage Door LLC",
+        "description": "Learn about Paulson Garage Door LLC in Minneapolis. Local experts providing quality service."
+      },
+      "services": {
+        "title": "Garage Door Services | Minneapolis",
+        "description": "Minneapolis garage door installation, repair, spring replacement, opener services. Fast & reliable."
+      },
+      "contact": {
+        "title": "Contact Paulson Garage Door - Minneapolis",
+        "description": "Contact Paulson Garage Door LLC in Minneapolis for service. Call +16127026580."
+      },
+      "reviews": {
+        "title": "Paulson Garage Door LLC Reviews",
+        "description": "Read reviews for Paulson Garage Door LLC in Minneapolis. See what our customers say!"
+      },
+      "service-areas": {
+        "title": "Garage Door Service Areas",
+        "description": "Paulson Garage Door LLC service areas. Minneapolis, St. Paul & more. Call today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
